@@ -9,7 +9,6 @@ What are Regular Expressions?
 ```{r, include = FALSE}
 library(magrittr)
 library(stringr)
-library(webshot)
 knitr::opts_chunk$set(tidy = FALSE)
 ```
 
